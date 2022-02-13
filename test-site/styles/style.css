@@ -1,0 +1,30 @@
+html{
+    background-color: #6699CC;
+}
+body{
+    background-color: #99CCFF;
+    width: 600px;
+    margin: auto;
+    border: 3px solid;
+    padding: 0 10px 10px 10px;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+    color: #99CCFF;
+    text-shadow: 2px 2px 1px #99CCFF;
+    background-color: #FFFFFF;
+}
+p,li{
+    color: #FFFFFF;
+    font-size: 20px;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: auto;
+}
+a{
+    color: #FFFFFF;
+}
